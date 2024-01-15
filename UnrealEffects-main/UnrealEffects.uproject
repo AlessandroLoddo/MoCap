@@ -18,6 +18,14 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkViconDataStream",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		}
 	]
 }
